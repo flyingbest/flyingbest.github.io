@@ -13,4 +13,4 @@ So, using [CloudFlare](https://www.cloudflare.com/). Secure and fast github page
 
 ### Attribution
 
-licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
