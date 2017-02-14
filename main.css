@@ -1,19 +1,13 @@
 /* main.css */
 
-/*
-* {
-	font-family:TitleFont,"Palatino Linotype","Book Antiqua",Palatino,serif;
-}
-*/
-
 @font-face {
 	font-family: TitleFont;
-	src: url("BPdotsSquareBold-webfont.woff") format("woff");
+	src: url(BPdotsSquareBold-webfont.woff) format('woff');
 	font-weight: bold;
 	font-style: normal;
 }
 
 * {
-	font-family: TitleFont,"Palatino Linotype","Book Antiqua",Palatino,serif;
+	font-family: TitleFont, "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	text-rendering: optimizelegibility;
 }
